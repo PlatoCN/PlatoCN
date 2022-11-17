@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PlatoCN
 - 👀 I’m rookie.
-- 🌱 I’m currently learning CPP.
+- 🌱 I’m currently learning CPP,my blog is https://platocn.github.io/.
 - 📫 How to reach me ?ohhhhh,My email is 352344022gmai@gmail.com. yes, I lost ‘l’, send me an email.
 - That's all.
